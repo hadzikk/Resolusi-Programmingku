@@ -2,8 +2,7 @@ Merealisasikan semua tujuanku untuk menjadi programmer
 - Belajar dasar dasar pemrograman
   * belajar bahasa C++
   * belajar c#
-  * belajar java
   * belajar python
 Metode
 - konsisten belajar
-- menyelesaikan purpose hingga akhir agar perubahan dapat tercapai
+- persisten dan sabar dalam melakukan perubahan
